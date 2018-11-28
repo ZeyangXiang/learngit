@@ -1,0 +1,7 @@
+详细对比数据参考网站：https://developer.nvidia.com/embedded/faq#jetson-differences-tx2i
+
+简述：
+TX2I 相比TX2 价格贵了约50%。
+TX2I 相比TX2 可以胜任更严酷的环境（温度，湿度，震频, 散热功率 都是TX2I较好）。
+TX2I 的工作寿命10年， TX2 的工作寿命5年。
+操作性能上，基本无差别。
